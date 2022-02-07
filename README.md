@@ -1,5 +1,3 @@
-<img align='right' src=".github/perfil.svg" width="230">
-
 <p align="left"> 
   Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working with React.Js and Nest.Js.
 </p>
@@ -21,6 +19,11 @@
   <img 
     src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
     alt="Nest.Js"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+    alt="GraphQL"
   />
 </p>
 
