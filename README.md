@@ -1,18 +1,18 @@
 <img align='right' src=".github/perfil.svg" width="230">
 
 <p align="left"> 
-  Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working over React.Js and Nest.Js. 👨‍💻
+  Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working with React.Js and Nest.Js. 👨‍💻
 </p>
 
 
-<p align="left" style="display: flex; align-items: center">
+<p align="left" >
   <strong>☕&nbsp;&nbsp;&nbsp;Favorite tools:</strong>
   &nbsp;&nbsp;
   <img 
       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
       alt="TypeScript"
   />
-    &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React.Js"
@@ -21,11 +21,6 @@
   <img 
     src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
     alt="Nest.Js"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="GraphQL"
   />
 </p>
 
@@ -38,8 +33,8 @@
   />
 </p>
 
-  &nbsp;
-  &nbsp;
+&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/kaique-covo-a46331147">
   <img
@@ -47,7 +42,7 @@
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:kaique.kng@gmail.com">
   <img
     align="center"
