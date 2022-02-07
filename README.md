@@ -1,7 +1,7 @@
 <img align='right' src=".github/perfil.svg" width="230">
 
 <p align="left"> 
-  Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working with React.Js and Nest.Js. 👨‍💻
+  Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working with React.Js and Nest.Js.
 </p>
 
 
