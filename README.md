@@ -1,5 +1,5 @@
 <p align="left"> 
-  Hi, I'm Kaique Covo a Software Engineer at <a href="https://descomplica.com.br/planos/">Descomplica</a>, working with React.Js and Nest.Js.
+  Hi, I'm Kaique Covo a Software Engineer at <a href="https://olby.com/">Olby</a>.
 </p>
 
 
