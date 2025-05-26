@@ -1,45 +1,11 @@
 <p align="left"> 
-  Hi, I'm Kaique Covo a Software Engineer at <a href="https://olby.com/">Olby</a>.
-</p>
-
-
-<p align="left" >
-  <strong>☕&nbsp;&nbsp;&nbsp;Favorite tools:</strong>
-  &nbsp;&nbsp;
-  <img 
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="TypeScript"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="React.Js"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
-    alt="Nest.Js"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="GraphQL"
-  />
-</p>
-
-<p align="left" style="display: flex; align-items: center">
-  <strong>👨‍💻&nbsp;&nbsp;&nbsp;Learning about:</strong>
-  &nbsp;&nbsp;
-  <img 
-    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-    alt="Jest"
-  />
+  Hi, I'm Kaique Covo, a Software Engineer at.
 </p>
 
 &nbsp;
 &nbsp;
 
-<a href="https://www.linkedin.com/in/kaique-covo-a46331147">
+<a href="www.linkedin.com/in/kaiquecovo">
   <img
     align="center"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
